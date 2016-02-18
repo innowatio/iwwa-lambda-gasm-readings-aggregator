@@ -5,7 +5,7 @@
 
 # iwwa-lambda-gasm-readings-aggregator
 
-Lambda function to aggregate readings.
+Lambda function to aggregate gasm readings.
 
 ## Deployment
 
